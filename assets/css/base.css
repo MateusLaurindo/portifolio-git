@@ -1,0 +1,90 @@
+.root {
+    --black: black;
+    --white: white;
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0 0 0;
+}
+
+.logotipo {
+    padding-left: 2%;
+}
+
+.acesso {
+    height: 188px;
+    width: 88%;
+    display: flex;
+}
+
+.agua {
+    height: 188px;
+    width: 88%;
+}
+
+.session {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cor-texto {
+    color: black;
+}
+
+.tamanho {
+    height: 90px;
+}
+
+.img-face {
+    border: transparent thin solid;
+    margin: 0 3%;
+    width: 20rem;
+    border-radius: 5%;
+    float: left;
+}
+
+.contatos {
+    height: 90px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.sobre-mateus {
+    height: 18rem;
+}
+
+
+/* .contatos-linkedin{
+    height: 90px;
+    padding-right: 15%;
+    padding-left: 15%;
+    text-align: center;
+    border-radius: 100%;
+} */
+
+.contatos-rckt {
+    height: 90px;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.estilo-novo {
+    padding: 0 6px;
+}
+
+.input-form {
+    width: 70%;
+}
+
+.texto-primario {
+    font-size: 1em;
+    padding: 2rem;
+}
+
+.texto-secundario {
+    font-size: 1em;
+    padding: 2rem;
+}
