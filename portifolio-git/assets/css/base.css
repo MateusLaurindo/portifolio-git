@@ -1,0 +1,32 @@
+.root{
+    --black: black;
+    --white: white;
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+    padding: 3% 0 0 0;
+}
+.logotipo{
+    padding-left: 2%;
+}
+.acesso{
+    height: 188px;
+    width: 88%;
+   display: flex;
+
+}
+.agua{
+    height: 188px;
+    width: 88%;
+    
+}
+.session{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.cor-texto{
+    color: black;
+}
