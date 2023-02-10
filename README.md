@@ -4,6 +4,7 @@
 
 # Recursos utilizado nessa aplicação
   * Bootstrap - eu utilizei para me auxiliar na responsividade do portifólio
+  * https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 
 # Linguagem utilizada no portifólio
