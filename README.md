@@ -8,9 +8,5 @@
 
 
 # Linguagem utilizada no portifólio
-  * Linguagem de progamação: javaScript
   * Linguagem de estilização: html, css.
 
-# Linguagem utilizada no portifólio
-  * Linguagem de progamação: javaScript
-  * Lingugem de estilização: html, css.
